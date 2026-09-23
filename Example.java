@@ -5,5 +5,6 @@ class Main {
         System.out.println("This is a simple Java program");
         System.out.println("================================");
         System.out.println("Welcome to the world of programming!");
+        System.out.println("================================");
     }
 }
